@@ -1,0 +1,1417 @@
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > S I M U L A T I O N  S E T T I N G S  < < < < < < < < < < |
+-------------------------------------------------------------------------------
+
+	Name: Final Test Saloon
+	Style: 2
+	Tables: 5
+	Frequency: 10
+	Total Minutes: 180
+	Starting Time: 660
+	Total Servers: 2
+	Total Cooks: 2
+
+
+Staffing: 
+
+	Jessica
+		Experience: 9
+		Diligence: 9
+		Charisma: 9
+
+	Joseph
+		Experience: 10
+		Diligence: 7
+		Charisma: 9
+
+	Chloe
+		Experience: 8
+		Diligence: 7
+
+	Alexis
+		Experience: 6
+		Diligence: 5
+
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > >  S I M U L A T I O N   S T A R T  < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+
+
+11:00am  The Rodriguez party has arrived
+11:00am  The Rodriguez party was seated by Jessica at table 1
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 11:00am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+11:01am  The Rodriguez party had their orders taken by Jessica at table 1
+11:10am  The Walker party has arrived
+11:10am  The Walker party was seated by Jessica at table 3
+11:11am  The Walker party had their orders taken by Jessica at table 3
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 11:15am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+11:20am  The Cox party has arrived
+11:20am  The Cox party was seated by Jessica at table 5
+11:21am  The Cox party had their orders taken by Jessica at table 5
+11:30am  The Lewis party has arrived
+11:30am  The Lewis party was seated by Jessica at table 7
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 11:30am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+11:31am  The Lewis party had their orders taken by Jessica at table 7
+11:40am  The Hernandez party has arrived
+11:40am  The Hernandez party was seated by Jessica at table 9
+11:41am  The Hernandez party had their orders taken by Jessica at table 9
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 11:45am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+11:50am  The Allen party has arrived
+11:50am  The Allen party was seated by Joseph at table 2
+11:51am  The Allen party had their orders taken by Joseph at table 2
+12:00pm  The King party has arrived
+12:00pm  The King party was seated by Joseph at table 4
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 12:00pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+12:01pm  The King party had their orders taken by Joseph at table 4
+12:09pm  The Rodriguez party at table 1 is asking where their food order is...
+12:10pm  The Scott party has arrived
+12:10pm  The Scott party was seated by Joseph at table 6
+12:11pm  The Scott party had their orders taken by Joseph at table 6
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 12:15pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+12:16pm  The Walker party at table 3 is asking where their food order is...
+12:20pm  The Adams party has arrived
+12:20pm  The Adams party was seated by Joseph at table 8
+12:21pm  The Adams party had their orders taken by Joseph at table 8
+12:21pm  The Rodriguez party was served their food by Jessica at table 1
+12:23pm  The Cox party at table 5 is asking where their food order is...
+12:27pm  The Walker party was served their food by Jessica at table 3
+12:30pm  The Collins party has arrived
+12:30pm  The Collins party was seated by Joseph at table 10
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 12:30pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+12:31pm  The Collins party had their orders taken by Joseph at table 10
+12:40pm  The Patterson party has arrived
+12:40pm  The Lewis party at table 7 is asking where their food order is...
+12:45pm  The Cox party has left angrilly
+			   Ticket Total: 0.00$
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 12:45pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+12:46pm  Jessica cleaned off table 5
+12:46pm  The Hernandez party at table 9 is asking where their food order is...
+12:49pm  The Patterson party was seated by Jessica at table 5
+12:50pm  The Scott party has arrived
+12:50pm  The Patterson party had their orders taken by Jessica at table 5
+12:54pm  The Allen party at table 2 is asking where their food order is...
+01:00pm  The Torres party has arrived
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 01:00pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+01:04pm  The Lewis party has left angrilly
+			   Ticket Total: 0.00$
+01:05pm  Jessica cleaned off table 7
+01:08pm  The Scott party was seated by Jessica at table 7
+01:09pm  The Scott party had their orders taken by Jessica at table 7
+01:10pm  The Taylor party has arrived
+01:10pm  The Hernandez party was served their food by Jessica at table 9
+01:11pm  The Rodriguez party was cashed out by Jessica at table 1
+01:11pm  The Rodriguez party has left and enjoyed their meal!
+			   Ticket Total: 36.00$
+01:12pm  The King party at table 4 is asking where their food order is...
+01:15pm  The Walker party was cashed out by Jessica at table 3
+01:15pm  The Walker party has left and enjoyed their meal!
+			   Ticket Total: 18.00$
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 01:15pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 54.00$
+
+01:16pm  The Scott party at table 6 is asking where their food order is...
+01:17pm  The Allen party has left angrilly
+			   Ticket Total: 0.00$
+01:18pm  Jessica cleaned off table 1
+01:18pm  Joseph cleaned off table 2
+01:20pm  The Washington party has arrived
+01:21pm  The Torres party was seated by Jessica at table 1
+01:21pm  The Taylor party was seated by Joseph at table 2
+01:22pm  The Torres party had their orders taken by Jessica at table 1
+01:22pm  The Taylor party had their orders taken by Joseph at table 2
+01:23pm  Jessica cleaned off table 3
+01:25pm  The Adams party at table 8 is asking where their food order is...
+01:26pm  The Washington party was seated by Jessica at table 3
+01:27pm  The Washington party had their orders taken by Jessica at table 3
+01:30pm  The Roberts party has arrived
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 01:30pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 54.00$
+
+01:34pm  The Collins party at table 10 is asking where their food order is...
+01:38pm  The Adams party has left angrilly
+			   Ticket Total: 0.00$
+01:39pm  Joseph cleaned off table 8
+01:40pm  The Reed party has arrived
+01:40pm  The King party has left angrilly
+			   Ticket Total: 0.00$
+01:42pm  The Roberts party was seated by Joseph at table 8
+01:43pm  The Roberts party had their orders taken by Joseph at table 8
+01:44pm  Joseph cleaned off table 4
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 01:45pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 54.00$
+
+01:47pm  The Reed party was seated by Joseph at table 4
+01:48pm  The Reed party had their orders taken by Joseph at table 4
+01:50pm  The King party has arrived
+01:51pm  The Scott party has left angrilly
+			   Ticket Total: 0.00$
+01:52pm  Joseph cleaned off table 6
+01:55pm  The King party was seated by Joseph at table 6
+01:56pm  The King party had their orders taken by Joseph at table 6
+01:56pm  The Patterson party at table 5 is asking where their food order is...
+01:58pm  The Collins party has left angrilly
+			   Ticket Total: 0.00$
+01:59pm  Joseph cleaned off table 10
+02:00pm  The Long party has arrived
+02:00pm  The Hernandez party was cashed out by Jessica at table 9
+02:00pm  The Hernandez party has left and enjoyed their meal!
+			   Ticket Total: 27.00$
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 02:00pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 81.00$
+
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > >  S I M U L A T I O N   E N D  < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+
+
+		Results:
+
+Name: Final Test Saloon
+Style: Typical Restaurant
+Number of tables: 10
+Number of servers: 2
+Number of cooks: 2
+
+Total number of parties: 19
+Total time parties spent waiting for a table: 90 minutes
+Total time parties spent waiting for any service: 1250 minutes
+Average turn around time: 65 minutes
+
+Money Earned: 81.00$
+Money Spent: 127.67$
+Total Profit: -46.67$
+
+
+Staffing: 
+
+	Jessica
+		Experience: 9
+		Diligence: 9
+		Charisma: 9
+
+	Joseph
+		Experience: 10
+		Diligence: 7
+		Charisma: 9
+
+	Chloe
+		Experience: 8
+		Diligence: 7
+
+	Alexis
+		Experience: 6
+		Diligence: 5
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > S I M U L A T I O N  S E T T I N G S  < < < < < < < < < < |
+-------------------------------------------------------------------------------
+
+	Name: Derpy
+	Style: 2
+	Tables: 2
+	Frequency: 5
+	Total Minutes: 180
+	Starting Time: 480
+	Total Servers: 2
+	Total Cooks: 2
+
+
+Staffing: 
+
+	Jordan
+		Experience: 8
+		Diligence: 8
+		Charisma: 8
+
+	Anna
+		Experience: 8
+		Diligence: 8
+		Charisma: 8
+
+	Jennifer
+		Experience: 1
+		Diligence: 1
+
+	Megan
+		Experience: 1
+		Diligence: 10
+
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > >  S I M U L A T I O N   S T A R T  < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+
+
+08:00am  The Turner party has arrived
+08:00am  The Turner party was seated by Jordan at table 1
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 08:00am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+08:01am  The Turner party had their orders taken by Jordan at table 1
+08:05am  The Gonzales party has arrived
+08:05am  The Gonzales party was seated by Jordan at table 3
+08:06am  The Gonzales party had their orders taken by Jordan at table 3
+08:10am  The Bryant party has arrived
+08:10am  The Bryant party was seated by Anna at table 2
+08:11am  The Bryant party had their orders taken by Anna at table 2
+08:15am  The Phillips party has arrived
+08:15am  The Phillips party was seated by Anna at table 4
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 08:15am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+08:16am  The Phillips party had their orders taken by Anna at table 4
+08:20am  The Watson party has arrived
+08:25am  The Morris party has arrived
+08:30am  The Martin party has arrived
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 08:30am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+08:35am  The Young party has arrived
+08:40am  The Evans party has arrived
+08:45am  The Russell party has arrived
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 08:45am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+08:50am  The Gonzalez party has arrived
+08:55am  The Bell party has arrived
+09:00am  The Adams party has arrived
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 09:00am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+09:04am  The Turner party at table 1 is asking where their food order is...
+09:05am  The Cook party has arrived
+09:09am  The Gonzales party at table 3 is asking where their food order is...
+09:10am  The Rogers party has arrived
+09:13am  The Bryant party at table 2 is asking where their food order is...
+09:15am  The Watson party has arrived
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 09:15am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+09:17am  An order of Nachos had to be sent back to the kitchen...
+09:18am  The Turner party had their orders fixed by Jordan at table 1
+09:20am  The Williams party has arrived
+09:20am  The Turner party at table 1 is asking where their food order is...
+09:22am  The Phillips party at table 4 is asking where their food order is...
+09:25am  The Baker party has arrived
+09:29am  The Watson party is getting tired of waiting for a table...
+09:29am  The Martin party is getting tired of waiting for a table...
+09:29am  The Gonzales party has left angrilly
+			   Ticket Total: 0.00$
+09:30am  The Anderson party has arrived
+09:30am  Jordan cleaned off table 3
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 09:30am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+09:33am  The Watson party was seated by Jordan at table 3
+09:34am  The Watson party had their orders taken by Jordan at table 3
+09:35am  The Jones party has arrived
+09:35am  The Bryant party has left angrilly
+			   Ticket Total: 0.00$
+09:36am  Anna cleaned off table 2
+09:36am  The Morris party is getting tired of waiting for a table...
+09:39am  The Morris party was seated by Anna at table 2
+09:40am  The Powell party has arrived
+09:40am  The Morris party had their orders taken by Anna at table 2
+09:41am  The Young party is getting tired of waiting for a table...
+09:42am  The Evans party is getting tired of waiting for a table...
+09:45am  The Johnson party has arrived
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 09:45am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+09:46am  The Russell party is getting tired of waiting for a table...
+09:48am  The Turner party has left angrilly
+			   Ticket Total: 0.00$
+09:49am  Jordan cleaned off table 1
+09:50am  The Mitchell party has arrived
+09:52am  The Martin party was seated by Jordan at table 1
+09:53am  The Martin party had their orders taken by Jordan at table 1
+09:55am  The Simmons party has arrived
+09:55am  The Bell party is getting tired of waiting for a table...
+09:56am  The Gonzalez party is getting tired of waiting for a table...
+09:57am  The Phillips party has left angrilly
+			   Ticket Total: 0.00$
+09:58am  Anna cleaned off table 4
+10:00am  The Morgan party has arrived
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 10:00am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+10:01am  The Young party was seated by Anna at table 4
+10:02am  The Young party had their orders taken by Anna at table 4
+10:05am  The James party has arrived
+10:07am  The Cook party is getting tired of waiting for a table...
+10:09am  The Watson party at table 3 is asking where their food order is...
+10:09am  The Martin party at table 1 is asking where their food order is...
+10:10am  The Bryant party has arrived
+10:11am  The Evans party has left angrilly
+			   Ticket Total: 0.00$
+10:12am  The Adams party is getting tired of waiting for a table...
+10:15am  The Butler party has arrived
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 10:15am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+10:16am  The Morris party at table 2 is asking where their food order is...
+10:19am  The Russell party has left angrilly
+			   Ticket Total: 0.00$
+10:20am  The Lee party has arrived
+10:20am  The Bell party has left angrilly
+			   Ticket Total: 0.00$
+10:21am  The Young party at table 4 is asking where their food order is...
+10:22am  The Adams party has left angrilly
+			   Ticket Total: 0.00$
+10:23am  The Rogers party is getting tired of waiting for a table...
+10:23am  The Watson party is getting tired of waiting for a table...
+10:24am  The Gonzalez party has left angrilly
+			   Ticket Total: 0.00$
+10:25am  The Jones party has arrived
+10:25am  The Williams party is getting tired of waiting for a table...
+10:27am  The Baker party is getting tired of waiting for a table...
+10:30am  The Phillips party has arrived
+10:30am  The Watson party has left angrilly
+			   Ticket Total: 0.00$
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 10:30am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+10:31am  Jordan cleaned off table 3
+10:31am  The Morris party has left angrilly
+			   Ticket Total: 0.00$
+10:32am  Anna cleaned off table 2
+10:33am  The Watson party has left angrilly
+			   Ticket Total: 0.00$
+10:35am  The Hill party has arrived
+10:37am  The Cook party was seated by Jordan at table 3
+10:37am  The Rogers party was seated by Anna at table 2
+10:38am  The Cook party had their orders taken by Jordan at table 3
+10:38am  The Rogers party had their orders taken by Anna at table 2
+10:39am  The Anderson party is getting tired of waiting for a table...
+10:40am  The Garcia party has arrived
+10:45am  The Rodriguez party has arrived
+10:45am  The Powell party is getting tired of waiting for a table...
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 10:45am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+10:46am  The Jones party is getting tired of waiting for a table...
+10:47am  The Cook party at table 3 is asking where their food order is...
+10:48am  The Johnson party is getting tired of waiting for a table...
+10:48am  The Young party has left angrilly
+			   Ticket Total: 0.00$
+10:49am  Anna cleaned off table 4
+10:50am  The Adams party has arrived
+10:51am  The Anderson party has left angrilly
+			   Ticket Total: 0.00$
+10:53am  The Williams party was seated by Anna at table 4
+10:54am  The Williams party had their orders taken by Anna at table 4
+10:54am  The Baker party has left angrilly
+			   Ticket Total: 0.00$
+10:55am  The Smith party has arrived
+10:55am  The Martin party has left angrilly
+			   Ticket Total: 0.00$
+10:56am  Jordan cleaned off table 1
+10:57am  The Mitchell party is getting tired of waiting for a table...
+11:00am  The Brown party has arrived
+11:00am  The Jones party has left angrilly
+			   Ticket Total: 0.00$
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 11:00am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > >  S I M U L A T I O N   E N D  < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+
+
+		Results:
+
+Name: Derpy
+Style: Typical Restaurant
+Number of tables: 4
+Number of servers: 2
+Number of cooks: 2
+
+Total number of parties: 37
+Total time parties spent waiting for a table: 2063 minutes
+Total time parties spent waiting for any service: 2717 minutes
+Average turn around time: 73 minutes
+
+Money Earned: 0.00$
+Money Spent: 74.02$
+Total Profit: -74.02$
+
+
+Staffing: 
+
+	Jordan
+		Experience: 8
+		Diligence: 8
+		Charisma: 8
+
+	Anna
+		Experience: 8
+		Diligence: 8
+		Charisma: 8
+
+	Jennifer
+		Experience: 1
+		Diligence: 1
+
+	Megan
+		Experience: 1
+		Diligence: 10
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > S I M U L A T I O N  S E T T I N G S  < < < < < < < < < < |
+-------------------------------------------------------------------------------
+
+	Name: Cheap
+	Style: 1
+	Tables: 3
+	Frequency: 11
+	Total Minutes: 420
+	Starting Time: 480
+	Total Servers: 1
+	Total Cooks: 2
+
+
+Staffing: 
+
+	Amber
+		Experience: 8
+		Diligence: 8
+		Charisma: 8
+
+	DJ
+		Experience: 5
+		Diligence: 5
+
+	Victoria
+		Experience: 5
+		Diligence: 5
+
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > >  S I M U L A T I O N   S T A R T  < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+
+
+08:00am  The Gonzales party has arrived
+08:00am  The Gonzales party was seated by Amber at table 1
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 08:00am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+08:01am  The Gonzales party had their orders taken by Amber at table 1
+08:07am  The Gonzales party was served their food by Amber at table 1
+08:11am  The Hall party has arrived
+08:11am  The Hall party was seated by Amber at table 2
+08:12am  The Hall party had their orders taken by Amber at table 2
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 08:15am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+08:18am  The Hall party was served their food by Amber at table 2
+08:22am  The Cooper party has arrived
+08:22am  The Cooper party was seated by Amber at table 3
+08:23am  The Cooper party had their orders taken by Amber at table 3
+08:28am  The Gonzales party was cashed out by Amber at table 1
+08:28am  The Gonzales party has left and enjoyed their meal!
+			   Ticket Total: 8.00$
+08:29am  The Cooper party was served their food by Amber at table 3
+08:30am  Amber cleaned off table 1
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 08:30am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 8.00$
+
+08:33am  The Thomas party has arrived
+08:33am  The Thomas party was seated by Amber at table 1
+08:34am  The Thomas party had their orders taken by Amber at table 1
+08:38am  The Hall party was cashed out by Amber at table 2
+08:38am  The Hall party has left and enjoyed their meal!
+			   Ticket Total: 6.50$
+08:39am  Amber cleaned off table 2
+08:42am  The Thomas party was served their food by Amber at table 1
+08:44am  The Robinson party has arrived
+08:44am  The Robinson party was seated by Amber at table 2
+08:45am  The Robinson party had their orders taken by Amber at table 2
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 08:45am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 14.50$
+
+08:51am  The Robinson party was served their food by Amber at table 2
+08:55am  The Evans party has arrived
+08:55am  The Evans party was seated by Amber at table 4
+08:56am  The Evans party had their orders taken by Amber at table 4
+08:57am  The Cooper party was cashed out by Amber at table 3
+08:57am  The Cooper party has left and enjoyed their meal!
+			   Ticket Total: 16.00$
+08:58am  Amber cleaned off table 3
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 09:00am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 30.50$
+
+09:02am  The Evans party was served their food by Amber at table 4
+09:06am  The Flores party has arrived
+09:06am  The Flores party was seated by Amber at table 3
+09:07am  The Flores party had their orders taken by Amber at table 3
+09:08am  The Thomas party was cashed out by Amber at table 1
+09:08am  The Thomas party has left and enjoyed their meal!
+			   Ticket Total: 15.50$
+09:09am  Amber cleaned off table 1
+09:13am  The Flores party was served their food by Amber at table 3
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 09:15am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 46.00$
+
+09:17am  The Young party has arrived
+09:17am  The Young party was seated by Amber at table 1
+09:18am  The Young party had their orders taken by Amber at table 1
+09:19am  The Robinson party was cashed out by Amber at table 2
+09:19am  The Robinson party has left and enjoyed their meal!
+			   Ticket Total: 9.50$
+09:20am  Amber cleaned off table 2
+09:23am  The Evans party was cashed out by Amber at table 4
+09:23am  The Evans party has left and enjoyed their meal!
+			   Ticket Total: 10.50$
+09:24am  The Young party was served their food by Amber at table 1
+09:25am  Amber cleaned off table 4
+09:28am  The Garcia party has arrived
+09:28am  The Garcia party was seated by Amber at table 2
+09:29am  The Garcia party had their orders taken by Amber at table 2
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 09:30am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 66.00$
+
+09:32am  The Flores party was cashed out by Amber at table 3
+09:32am  The Flores party has left and enjoyed their meal!
+			   Ticket Total: 18.00$
+09:33am  Amber cleaned off table 3
+09:36am  The Garcia party was served their food by Amber at table 2
+09:39am  The Carter party has arrived
+09:39am  The Carter party was seated by Amber at table 3
+09:40am  The Carter party had their orders taken by Amber at table 3
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 09:45am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 84.00$
+
+09:46am  The Carter party was served their food by Amber at table 3
+09:50am  The Stewart party has arrived
+09:50am  The Stewart party was seated by Amber at table 4
+09:51am  The Stewart party had their orders taken by Amber at table 4
+09:52am  The Young party was cashed out by Amber at table 1
+09:52am  The Young party has left and enjoyed their meal!
+			   Ticket Total: 14.00$
+09:53am  Amber cleaned off table 1
+09:56am  An order of Fish Sandwich had to be sent back to the kitchen...
+09:57am  The Stewart party had their orders fixed by Amber at table 4
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 10:00am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 98.00$
+
+10:01am  The Rogers party has arrived
+10:01am  The Rogers party was seated by Amber at table 1
+10:02am  The Rogers party had their orders taken by Amber at table 1
+10:03am  The Garcia party was cashed out by Amber at table 2
+10:03am  The Garcia party has left and enjoyed their meal!
+			   Ticket Total: 3.50$
+10:04am  Amber cleaned off table 2
+10:08am  The Rogers party was served their food by Amber at table 1
+10:12am  The Robinson party has arrived
+10:12am  The Robinson party was seated by Amber at table 2
+10:13am  The Robinson party had their orders taken by Amber at table 2
+10:14am  The Carter party was cashed out by Amber at table 3
+10:14am  The Carter party has left and enjoyed their meal!
+			   Ticket Total: 9.50$
+10:15am  Amber cleaned off table 3
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 10:15am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 111.00$
+
+10:19am  The Robinson party was served their food by Amber at table 2
+10:23am  The Perry party has arrived
+10:23am  The Perry party was seated by Amber at table 3
+10:24am  The Perry party had their orders taken by Amber at table 3
+10:30am  The Perry party was served their food by Amber at table 3
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 10:30am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 111.00$
+
+10:33am  The Rogers party was cashed out by Amber at table 1
+10:33am  The Stewart party at table 4 is asking where their food order is...
+10:33am  The Rogers party has left and enjoyed their meal!
+			   Ticket Total: 14.00$
+10:34am  The Perry party has arrived
+10:34am  The Perry party was seated by Amber at table 5
+10:35am  The Perry party had their orders taken by Amber at table 5
+10:36am  Amber cleaned off table 1
+10:45am  The Howard party has arrived
+10:45am  The Howard party was seated by Amber at table 1
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 10:45am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 125.00$
+
+10:46am  The Howard party had their orders taken by Amber at table 1
+10:47am  The Robinson party was cashed out by Amber at table 2
+10:47am  The Robinson party has left and enjoyed their meal!
+			   Ticket Total: 5.50$
+10:48am  Amber cleaned off table 2
+10:48am  The Stewart party has left angrilly
+			   Ticket Total: 0.00$
+10:51am  Amber cleaned off table 4
+10:54am  The Perry party was served their food by Amber at table 5
+10:55am  The Howard party was served their food by Amber at table 1
+10:56am  The Wright party has arrived
+10:56am  The Wright party was seated by Amber at table 2
+10:57am  The Wright party had their orders taken by Amber at table 2
+10:58am  The Perry party was cashed out by Amber at table 3
+10:58am  The Perry party has left and enjoyed their meal!
+			   Ticket Total: 14.50$
+10:59am  Amber cleaned off table 3
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 11:00am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 145.00$
+
+11:03am  The Wright party was served their food by Amber at table 2
+11:07am  The Cooper party has arrived
+11:07am  The Cooper party was seated by Amber at table 3
+11:08am  The Cooper party had their orders taken by Amber at table 3
+11:14am  The Cooper party was served their food by Amber at table 3
+11:15am  The Perry party was cashed out by Amber at table 5
+11:15am  The Perry party has left and enjoyed their meal!
+			   Ticket Total: 13.50$
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 11:15am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 158.50$
+
+11:16am  Amber cleaned off table 5
+11:18am  The Lee party has arrived
+11:19am  The Lee party was seated by Amber at table 4
+11:20am  The Lee party had their orders taken by Amber at table 4
+11:21am  The Howard party was cashed out by Amber at table 1
+11:21am  The Howard party has left and enjoyed their meal!
+			   Ticket Total: 16.50$
+11:22am  Amber cleaned off table 1
+11:25am  The Wright party was cashed out by Amber at table 2
+11:25am  The Wright party has left and enjoyed their meal!
+			   Ticket Total: 14.00$
+11:26am  The Lee party was served their food by Amber at table 4
+11:27am  Amber cleaned off table 2
+11:29am  The Robinson party has arrived
+11:30am  The Robinson party was seated by Amber at table 1
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 11:30am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 189.00$
+
+11:31am  The Robinson party had their orders taken by Amber at table 1
+11:37am  The Robinson party was served their food by Amber at table 1
+11:40am  The Butler party has arrived
+11:40am  The Butler party was seated by Amber at table 2
+11:41am  The Butler party had their orders taken by Amber at table 2
+11:42am  The Cooper party was cashed out by Amber at table 3
+11:42am  The Cooper party has left and enjoyed their meal!
+			   Ticket Total: 8.00$
+11:43am  The Lee party was cashed out by Amber at table 4
+11:43am  The Lee party has left and enjoyed their meal!
+			   Ticket Total: 8.50$
+11:44am  Amber cleaned off table 3
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 11:45am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 205.50$
+
+11:47am  The Butler party was served their food by Amber at table 2
+11:48am  Amber cleaned off table 4
+11:51am  The Green party has arrived
+11:51am  The Green party was seated by Amber at table 3
+11:52am  The Green party had their orders taken by Amber at table 3
+11:57am  An order of Hotdog had to be sent back to the kitchen...
+11:58am  The Green party had their orders fixed by Amber at table 3
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 12:00pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 205.50$
+
+12:01pm  The Robinson party was cashed out by Amber at table 1
+12:01pm  The Robinson party has left and enjoyed their meal!
+			   Ticket Total: 13.00$
+12:02pm  The Bailey party has arrived
+12:02pm  The Bailey party was seated by Amber at table 4
+12:03pm  The Bailey party had their orders taken by Amber at table 4
+12:04pm  Amber cleaned off table 1
+12:07pm  The Butler party was cashed out by Amber at table 2
+12:07pm  The Butler party has left and enjoyed their meal!
+			   Ticket Total: 6.50$
+12:08pm  Amber cleaned off table 2
+12:13pm  The Russell party has arrived
+12:13pm  The Russell party was seated by Amber at table 1
+12:14pm  The Russell party had their orders taken by Amber at table 1
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 12:15pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 225.00$
+
+12:21pm  The Bailey party was served their food by Amber at table 4
+12:22pm  An order of Grilled Cheese had to be sent back to the kitchen...
+12:23pm  The Russell party had their orders fixed by Amber at table 1
+12:24pm  The Rodriguez party has arrived
+12:24pm  The Rodriguez party was seated by Amber at table 2
+12:25pm  The Rodriguez party had their orders taken by Amber at table 2
+12:29pm  The Green party at table 3 is asking where their food order is...
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 12:30pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 225.00$
+
+12:31pm  The Rodriguez party was served their food by Amber at table 2
+12:35pm  The Peterson party has arrived
+12:35pm  The Peterson party was seated by Amber at table 5
+12:36pm  The Peterson party had their orders taken by Amber at table 5
+12:41pm  An order of Hotdog had to be sent back to the kitchen...
+12:42pm  The Peterson party had their orders fixed by Amber at table 5
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 12:45pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 225.00$
+
+12:46pm  The Powell party has arrived
+12:46pm  The Powell party was seated by Amber at table 6
+12:47pm  The Powell party had their orders taken by Amber at table 6
+12:48pm  The Bailey party was cashed out by Amber at table 4
+12:48pm  The Bailey party has left and enjoyed their meal!
+			   Ticket Total: 15.00$
+12:49pm  Amber cleaned off table 4
+12:49pm  The Green party has left angrilly
+			   Ticket Total: 0.00$
+12:52pm  The Rodriguez party was cashed out by Amber at table 2
+12:52pm  The Rodriguez party has left and enjoyed their meal!
+			   Ticket Total: 5.50$
+12:53pm  The Powell party was served their food by Amber at table 6
+12:54pm  Amber cleaned off table 2
+12:54pm  The Russell party at table 1 is asking where their food order is...
+12:57pm  The Watson party has arrived
+12:57pm  The Watson party was seated by Amber at table 2
+12:58pm  The Watson party had their orders taken by Amber at table 2
+12:59pm  Amber cleaned off table 3
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 01:00pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 245.50$
+
+01:04pm  The Watson party was served their food by Amber at table 2
+01:04pm  The Russell party has left angrilly
+			   Ticket Total: 0.00$
+01:05pm  Amber cleaned off table 1
+01:08pm  The Hernandez party has arrived
+01:08pm  The Hernandez party was seated by Amber at table 1
+01:09pm  The Hernandez party had their orders taken by Amber at table 1
+01:13pm  The Peterson party at table 5 is asking where their food order is...
+01:15pm  The Hernandez party was served their food by Amber at table 1
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 01:15pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 245.50$
+
+01:19pm  The Coleman party has arrived
+01:19pm  The Coleman party was seated by Amber at table 3
+01:20pm  The Coleman party had their orders taken by Amber at table 3
+01:21pm  The Powell party was cashed out by Amber at table 6
+01:21pm  The Powell party has left and enjoyed their meal!
+			   Ticket Total: 8.50$
+01:22pm  Amber cleaned off table 6
+01:26pm  The Coleman party was served their food by Amber at table 3
+01:27pm  The Watson party was cashed out by Amber at table 2
+01:27pm  The Watson party has left and enjoyed their meal!
+			   Ticket Total: 16.50$
+01:28pm  Amber cleaned off table 2
+01:30pm  The Williams party has arrived
+01:30pm  The Peterson party has left angrilly
+			   Ticket Total: 0.00$
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 01:30pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 270.50$
+
+01:31pm  The Williams party was seated by Amber at table 2
+01:32pm  The Williams party had their orders taken by Amber at table 2
+01:33pm  Amber cleaned off table 5
+01:38pm  The Williams party was served their food by Amber at table 2
+01:39pm  The Hernandez party was cashed out by Amber at table 1
+01:39pm  The Hernandez party has left and enjoyed their meal!
+			   Ticket Total: 7.50$
+01:40pm  Amber cleaned off table 1
+01:41pm  The Phillips party has arrived
+01:43pm  The Phillips party was seated by Amber at table 1
+01:44pm  The Phillips party had their orders taken by Amber at table 1
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 01:45pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 278.00$
+
+01:50pm  The Phillips party was served their food by Amber at table 1
+01:52pm  The Ramirez party has arrived
+01:52pm  The Ramirez party was seated by Amber at table 4
+01:53pm  The Ramirez party had their orders taken by Amber at table 4
+01:54pm  The Coleman party was cashed out by Amber at table 3
+01:54pm  The Coleman party has left and enjoyed their meal!
+			   Ticket Total: 13.50$
+01:55pm  Amber cleaned off table 3
+01:59pm  The Ramirez party was served their food by Amber at table 4
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 02:00pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 291.50$
+
+02:01pm  The Williams party was cashed out by Amber at table 2
+02:01pm  The Williams party has left and enjoyed their meal!
+			   Ticket Total: 15.00$
+02:02pm  Amber cleaned off table 2
+02:03pm  The White party has arrived
+02:05pm  The White party was seated by Amber at table 2
+02:06pm  The White party had their orders taken by Amber at table 2
+02:12pm  The White party was served their food by Amber at table 2
+02:14pm  The Bailey party has arrived
+02:14pm  The Bailey party was seated by Amber at table 3
+02:15pm  The Bailey party had their orders taken by Amber at table 3
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 02:15pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 306.50$
+
+02:16pm  The Phillips party was cashed out by Amber at table 1
+02:16pm  The Phillips party has left and enjoyed their meal!
+			   Ticket Total: 10.00$
+02:17pm  The Ramirez party was cashed out by Amber at table 4
+02:17pm  The Ramirez party has left and enjoyed their meal!
+			   Ticket Total: 21.00$
+02:18pm  Amber cleaned off table 1
+02:21pm  The Bailey party was served their food by Amber at table 3
+02:22pm  Amber cleaned off table 4
+02:25pm  The Green party has arrived
+02:25pm  The Green party was seated by Amber at table 1
+02:26pm  The Green party had their orders taken by Amber at table 1
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 02:30pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 337.50$
+
+02:32pm  The Green party was served their food by Amber at table 1
+02:36pm  The Martin party has arrived
+02:36pm  The Martin party was seated by Amber at table 4
+02:37pm  The Martin party had their orders taken by Amber at table 4
+02:38pm  The White party was cashed out by Amber at table 2
+02:38pm  The White party has left and enjoyed their meal!
+			   Ticket Total: 17.00$
+02:39pm  Amber cleaned off table 2
+02:42pm  The Bailey party was cashed out by Amber at table 3
+02:42pm  The Bailey party has left and enjoyed their meal!
+			   Ticket Total: 6.50$
+02:43pm  The Martin party was served their food by Amber at table 4
+02:44pm  Amber cleaned off table 3
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 02:45pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 361.00$
+
+02:47pm  The Murphy party has arrived
+02:47pm  The Murphy party was seated by Amber at table 2
+02:48pm  The Murphy party had their orders taken by Amber at table 2
+02:54pm  The Murphy party was served their food by Amber at table 2
+02:58pm  The Barnes party has arrived
+02:58pm  The Barnes party was seated by Amber at table 3
+02:59pm  The Barnes party had their orders taken by Amber at table 3
+03:00pm  The Green party was cashed out by Amber at table 1
+03:00pm  The Green party has left and enjoyed their meal!
+			   Ticket Total: 5.50$
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 03:00pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 366.50$
+
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > >  S I M U L A T I O N   E N D  < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+
+
+		Results:
+
+Name: Cheap
+Style: Fast Food / Cafeteria
+Number of tables: 6
+Number of servers: 1
+Number of cooks: 2
+
+Total number of parties: 39
+Total time parties spent waiting for a table: 7 minutes
+Total time parties spent waiting for any service: 527 minutes
+Average turn around time: 13 minutes
+
+Money Earned: 366.50$
+Money Spent: 116.36$
+Total Profit: 250.14$
+
+
+Staffing: 
+
+	Amber
+		Experience: 8
+		Diligence: 8
+		Charisma: 8
+
+	DJ
+		Experience: 5
+		Diligence: 5
+
+	Victoria
+		Experience: 5
+		Diligence: 5
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > S I M U L A T I O N  S E T T I N G S  < < < < < < < < < < |
+-------------------------------------------------------------------------------
+
+	Name: fancee
+	Style: 3
+	Tables: 5
+	Frequency: 20
+	Total Minutes: 300
+	Starting Time: 1200
+	Total Servers: 3
+	Total Cooks: 2
+
+
+Staffing: 
+
+	Sara
+		Experience: 8
+		Diligence: 8
+		Charisma: 8
+
+	Hannah
+		Experience: 4
+		Diligence: 4
+		Charisma: 4
+
+	Andrew
+		Experience: 1
+		Diligence: 1
+		Charisma: 1
+
+	Aaron
+		Experience: 5
+		Diligence: 8
+
+	Anthony
+		Experience: 8
+		Diligence: 2
+
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > >  S I M U L A T I O N   S T A R T  < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+
+
+08:00pm  The Sanchez party has arrived
+08:00pm  The Sanchez party was seated by Sara at table 1
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 08:00pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+08:01pm  The Sanchez party had their orders taken by Sara at table 1
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 08:15pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+08:20pm  The Garcia party has arrived
+08:20pm  The Garcia party was seated by Sara at table 4
+08:21pm  The Garcia party had their orders taken by Sara at table 4
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 08:30pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+08:40pm  The Hernandez party has arrived
+08:40pm  The Hernandez party was seated by Sara at table 7
+08:41pm  The Hernandez party had their orders taken by Sara at table 7
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 08:45pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+09:00pm  The Rogers party has arrived
+09:00pm  The Rogers party was seated by Sara at table 10
+09:00pm  An order of Lasagna had to be sent back to the kitchen...
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 09:00pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+09:01pm  The Rogers party had their orders taken by Sara at table 10
+09:02pm  The Sanchez party had their orders fixed by Sara at table 1
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 09:15pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+09:20pm  The Edwards party has arrived
+09:20pm  The Edwards party was seated by Hannah at table 2
+09:24pm  The Garcia party was served their food by Sara at table 4
+09:25pm  The Edwards party had their orders taken by Hannah at table 2
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 09:30pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+09:40pm  The Ross party has arrived
+09:40pm  The Ross party was seated by Hannah at table 5
+09:44pm  The Ross party had their orders taken by Hannah at table 5
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 09:45pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+09:57pm  The Hernandez party was served their food by Sara at table 7
+10:00pm  The Howard party has arrived
+10:00pm  The Howard party was seated by Hannah at table 8
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 10:00pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+10:03pm  The Rogers party was served their food by Sara at table 10
+10:03pm  The Sanchez party at table 1 is asking where their food order is...
+10:05pm  The Howard party had their orders taken by Hannah at table 8
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 10:15pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+10:20pm  The Barnes party has arrived
+10:20pm  The Barnes party was seated by Andrew at table 3
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 10:30pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+10:36pm  The Ross party was served their food by Hannah at table 5
+10:36pm  The Sanchez party has left angrilly
+			   Ticket Total: 0.00$
+10:37pm  Sara cleaned off table 1
+10:40pm  The Hayes party has arrived
+10:40pm  The Hayes party was seated by Sara at table 1
+10:41pm  The Hayes party had their orders taken by Sara at table 1
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 10:45pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 0.00$
+
+10:46pm  The Garcia party was cashed out by Sara at table 4
+10:46pm  The Garcia party has left and enjoyed their meal!
+			   Ticket Total: 44.50$
+10:49pm  The Barnes party had their orders taken by Andrew at table 3
+10:50pm  Sara cleaned off table 4
+10:55pm  The Hernandez party was cashed out by Sara at table 7
+10:55pm  The Hernandez party has left and enjoyed their meal!
+			   Ticket Total: 83.00$
+11:00pm  The Lopez party has arrived
+11:00pm  The Lopez party was seated by Sara at table 4
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 11:00pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 127.50$
+
+11:01pm  The Lopez party had their orders taken by Sara at table 4
+11:01pm  The Edwards party at table 2 is asking where their food order is...
+11:02pm  Sara cleaned off table 7
+11:11pm  The Rogers party was cashed out by Sara at table 10
+11:11pm  The Rogers party has left and enjoyed their meal!
+			   Ticket Total: 74.00$
+11:15pm  Sara cleaned off table 10
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 11:15pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 201.50$
+
+11:20pm  The Rodriguez party has arrived
+11:20pm  The Rodriguez party was seated by Sara at table 7
+11:21pm  The Rodriguez party had their orders taken by Sara at table 7
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 11:30pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 201.50$
+
+11:40pm  The Diaz party has arrived
+11:40pm  The Diaz party was seated by Sara at table 10
+11:41pm  The Diaz party had their orders taken by Sara at table 10
+11:43pm  The Howard party at table 8 is asking where their food order is...
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 11:45pm < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 201.50$
+
+11:46pm  The Edwards party has left angrilly
+			   Ticket Total: 0.00$
+11:47pm  Hannah cleaned off table 2
+11:53pm  The Ross party was cashed out by Hannah at table 5
+11:53pm  The Ross party has left and enjoyed their meal!
+			   Ticket Total: 69.50$
+12:00am  The Allen party has arrived
+12:00am  The Allen party was seated by Andrew at table 6
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 12:00am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 271.00$
+
+12:03am  Hannah cleaned off table 5
+12:03am  The Barnes party at table 3 is asking where their food order is...
+12:09am  The Howard party was served their food by Hannah at table 8
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 12:15am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 271.00$
+
+12:17am  An order of T-Bone Steak had to be sent back to the kitchen...
+12:18am  The Lopez party had their orders fixed by Sara at table 4
+12:20am  The Russell party has arrived
+12:20am  The Russell party was seated by Hannah at table 2
+12:21am  The Hayes party at table 1 is asking where their food order is...
+12:25am  The Russell party had their orders taken by Hannah at table 2
+12:29am  The Allen party had their orders taken by Andrew at table 6
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 12:30am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 271.00$
+
+12:40am  The Brown party has arrived
+12:40am  The Brown party was seated by Hannah at table 5
+12:44am  The Brown party had their orders taken by Hannah at table 5
+12:45am  The Barnes party has left angrilly
+			   Ticket Total: 0.00$
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 12:45am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 271.00$
+
+12:54am  The Hayes party has left angrilly
+			   Ticket Total: 0.00$
+12:55am  Sara cleaned off table 1
+12:57am  The Rodriguez party at table 7 is asking where their food order is...
+12:58am  Andrew cleaned off table 3
+01:00am  The Clark party has arrived
+01:00am  The Clark party was seated by Sara at table 1
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > > > > > > > 01:00am < < < < < < < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+			  Current Total: 271.00$
+
+
+-------------------------------------------------------------------------------
+| > > > > > > > > > > > >  S I M U L A T I O N   E N D  < < < < < < < < < < < |
+-------------------------------------------------------------------------------
+
+
+		Results:
+
+Name: fancee
+Style: Formal / Fine Dining
+Number of tables: 10
+Number of servers: 3
+Number of cooks: 2
+
+Total number of parties: 16
+Total time parties spent waiting for a table: 0 minutes
+Total time parties spent waiting for any service: 1401 minutes
+Average turn around time: 87 minutes
+
+Money Earned: 271.00$
+Money Spent: 297.74$
+Total Profit: -26.74$
+
+
+Staffing: 
+
+	Sara
+		Experience: 8
+		Diligence: 8
+		Charisma: 8
+
+	Hannah
+		Experience: 4
+		Diligence: 4
+		Charisma: 4
+
+	Andrew
+		Experience: 1
+		Diligence: 1
+		Charisma: 1
+
+	Aaron
+		Experience: 5
+		Diligence: 8
+
+	Anthony
+		Experience: 8
+		Diligence: 2

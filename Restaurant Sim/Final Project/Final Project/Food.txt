@@ -1,0 +1,181 @@
+10
+Burger
+6.50
+1.62
+1
+1
+1
+Bacon Burger
+8.00
+2.00
+1
+1
+1
+Monster Burger
+8.50
+2.13
+1
+1
+1
+Hotdog
+4.50
+1.13
+1
+1
+1
+Small Fries
+2.50
+0.63
+1
+1
+1
+Large Fries
+5.00
+1.25
+1
+1
+1
+Chicken Nuggets
+5.50
+1.37
+1
+1
+1
+Chicken Sandwich
+7.00
+1.75
+1
+1
+1
+Fish Sandwich
+6.50
+1.62
+1
+1
+1
+Grilled Cheese
+5.50
+1.38
+1
+1
+1
+Steak
+12.50
+3.12
+5
+20
+1
+Nachos
+8.00
+2.00
+5
+7
+1
+Tacos
+8.00
+2.00
+5
+25
+1
+Burritos
+8.00
+2.00
+5
+15
+1
+Enchiladas
+9.00
+2.25
+5
+25
+1
+Chicken Tenders
+9.00
+2.25
+5
+20
+1
+Pork Sausages
+9.00
+2.25
+5
+15
+1
+Chicken Fried Steak
+12.00
+3.00
+5
+17
+1
+Chicken Parmesan
+13.00
+3.25
+5
+35
+1
+Fish & Chips
+7.00
+1.75
+5
+20
+1
+Filet Mignon
+22.00
+5.50
+5
+30
+1
+T-Bone Steak
+21.00
+5.25
+5
+30
+1
+Grilled Salmon
+15.00
+3.75
+5
+30
+1
+Lobster
+15.00
+3.75
+5
+25
+1
+Lambchops
+18.00
+4.50
+5
+40
+1
+Creme Brulee
+10.00
+2.50
+5
+40
+1
+Ratatouille
+17.00
+4.25
+5
+45
+1
+Lasagna
+17.00
+4.25
+5
+45
+1
+Ravioli
+15.00
+3.75
+5
+25
+1
+Prime Rib
+22.00
+5.50
+5
+25
+1
